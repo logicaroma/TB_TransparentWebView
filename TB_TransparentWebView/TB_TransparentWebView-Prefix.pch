@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TB_TransparentWebView' target in the 'TB_TransparentWebView' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
